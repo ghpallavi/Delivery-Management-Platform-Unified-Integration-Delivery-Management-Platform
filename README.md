@@ -5,9 +5,8 @@ comprehensive solution that includes various features for automating the deliver
 
 To adapt the existing codebase to create an Automated Delivery Risk Tracker, you can follow these steps:
 
-Install the required dependencies by running pip install -r requirements.txt in the project directory.
-Create a new module that implements the risk identification and priority report generation functionalities as described earlier.
-Modify the existing vehicle tracking module to include risk scores for each vehicle, based on the predictions from the machine learning model implemented in the new module.
+the risk identification and priority report generation functionalities 
+The existing vehicle tracking module to include risk scores for each vehicle, based on the predictions from the machine learning model implemented in the new module.
 Update the user interface (UI) to display these risk scores and prioritize vehicles accordingly.
 Save the results for future reference and analytics purposes.
 
